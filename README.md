@@ -1,8 +1,8 @@
 # Oi, eu sou o Pedro Ramos 🧑🏻‍💻🧾🎲
 
-Me chamo Pedro, tenho 29 anos, natural de Olinda/PE. 
+Tenho 29 anos e sou natural de Olinda/PE. 
 
-Sou Bacharel em Ciências Contábeis pela UNIBRA. Atualmente, faço parte da Deloitte, integrando um dos times do financeiro, atuando com contas a pagar diretamente e algumas outras atividades do setor. Sou apaixonado pelo que faço e pela minha formação, porém um desejo antigo de estudar tecnologia me trouxe até aqui. Tenho grande vontade e curiosdade de integrar minha primeira formação com a área de tecnologia e por isso, decidi dar início aos meus estudos sobre a área de dados 🎲. 
+Sou Bacharel em Ciências Contábeis pela UNIBRA. Atualmente, faço parte da Deloitte, integrando um dos times do financeiro, atuando com contas a pagar diretamente e algumas outras atividades relacionadas ao setor. Sou apaixonado pelo que faço, por onde estou e pela minha formação, porém um desejo antigo de estudar tecnologia me trouxe até aqui. Tenho grande vontade e curiosdade de integrar minha primeira formação com a área de tecnologia e por isso, decidi dar início aos meus estudos sobre a área de dados, que foi onde entendi que meu conhecimento adquirido também seria útil 🎲. 
 
 Aqui compartilharei parte do meu aprendizado e conhecimento, mas também criei outros canais para compartilhar essa jornada e você pode encontrar tudo "[aqui](https://linktr.ee/ppedropeu)".
 
