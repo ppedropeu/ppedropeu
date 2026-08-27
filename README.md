@@ -76,7 +76,7 @@ Aqui compartilharei parte do meu aprendizado e conhecimento, mas também criei o
  alt="Estatísticas do meu GitHub" 
  height="200px" 
  style="padding-right: 10px;" 
- src="https://github-readme-stats.vercel.app/api?username=ppedropeu&theme=github_dark_dimmed&show_icons=true&include_all_commits=true&locale=pt-br"
+ src="./profile/stats.svg"
 />
 
 <img 
@@ -84,5 +84,10 @@ Aqui compartilharei parte do meu aprendizado e conhecimento, mas também criei o
  alt="Linguagens mais utilizadas" 
  height="200px" 
  style="padding-right: 10px;" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppedropeu&layout=pie&theme=github_dark_dimmed&langs_count=6&locale=pt-br"
+ src="./profile/top-langs.svg"
 />
+
+<br/>
+<br/>
+<br/>
+<br/>
